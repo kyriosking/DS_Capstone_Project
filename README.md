@@ -1,4 +1,4 @@
-# Sparkify: Predicting Churn Usẻ for a Music Streaming Platform
+# Sparkify: Predicting Churn User for a Music Streaming Platform
 
 ## Project Motivation
 This data contains key insights in maintaining user happy service. Our task in this project is to develop a model that predict which users have potential to cancel premium services, etc...
