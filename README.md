@@ -1,5 +1,5 @@
 # Sparkify: Predicting Churn User for a Music Streaming Platform
-
+My blogspot report: https://vylt4.notion.site/Report-Sparkify-Capstone-Project-eca2ccb869664ee5b59279eabbcbbfaa
 ## Project Motivation
 This data contains key insights in maintaining user happy service. Our task in this project is to develop a model that predict which users have potential to cancel premium services, etc...
 My work will give business more chances to provide suitable service to their customers.
